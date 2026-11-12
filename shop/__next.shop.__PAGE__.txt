@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+3:"/_next/static/chunks/33wqh9tjrz9wj.js"
+4:"/_next/static/chunks/2dx4thwtjwbjh.js"
+5:"/_next/static/chunks/2i31li8rzn8jv.js"
+6:"/_next/static/chunks/3p8wvp-2h9bx2.js"
+7:"/_next/static/chunks/0sjnzqfwiruxd.js"
+8:I[31362,["$3","$4","$5","$6","$7"],"GoogleAnalytics"]
+9:I[30824,["$3","$4","$5","$6","$7"],"Providers"]
+a:I[45678,["$3","$4","$5","$6","$7"],"Navbar"]
+b:I[18016,["$3","$4","$5","$6","$7"],"CartDrawer"]
+c:"LoginRequiredModal"
+d:I[75738,["$3","$4","$5","$6","$7"],"$c"]
+e:I[39756,["$3","$4","$5","$6","$7"],"default"]
+f:I[37457,["$3","$4","$5","$6","$7"],"default"]
+10:"/_next/static/chunks/3xwq3_0vw8q83.js"
+11:I[29306,["$3","$4","$5","$6","$7","$10"],"default"]
+12:I[13642,["$3","$4","$5","$6","$7"],"Footer"]
+19:"/_next/static/chunks/03f042v1fqjj7.js"
+1a:I[7948,["$3","$4","$5","$6","$7","$19"],"ShopClient"]
+1b:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1f:"ViewportBoundary"
+20:I[97367,["$3","$4","$5","$6","$7"],"$1f"]
+21:"MetadataBoundary"
+22:I[97367,["$3","$4","$5","$6","$7"],"$21"]
+:HL["/_next/static/chunks/3i1anc1rv6vff.css","style"]
+2:T601,{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://ravanaclothing.shop/#organization","name":"RAVANA CLOTHING","legalName":"RAVANA CLOTHING","url":"https://ravanaclothing.shop","logo":{"@type":"ImageObject","@id":"https://ravanaclothing.shop/#logo","url":"https://ravanaclothing.shop/brand/ravana-logo.png","caption":"RAVANA CLOTHING Official Logo","width":1024,"height":983},"image":{"@id":"https://ravanaclothing.shop/#logo"},"email":"sunnysingh983377@gmail.com","description":"Luxury fashion house and streetwear clothing atelier inspired by Golden Lanka.","sameAs":["https://www.instagram.com/ravanaclothing"]},{"@type":"WebSite","@id":"https://ravanaclothing.shop/#website","url":"https://ravanaclothing.shop","name":"RAVANA CLOTHING","description":"Luxury Clothing, Streetwear & Designer Fashion House","publisher":{"@id":"https://ravanaclothing.shop/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ravanaclothing.shop/shop?q={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"ClothingStore","@id":"https://ravanaclothing.shop/#store","name":"RAVANA CLOTHING","url":"https://ravanaclothing.shop","description":"High-end luxury clothing brand, designer streetwear jackets, barrel sweatpants, and bespoke couture clothes.","priceRange":"₹₹₹","currenciesAccepted":"INR","paymentAccepted":"UPI, Credit Card, Debit Card, Net Banking, Cash on Delivery","areaServed":{"@type":"Country","name":"India"}}]}14:X
+17:X
+17:C
+18:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[#08080a] text-white pt-28 pb-20","children":["$","$L1a",null,{"initialProducts":[]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/03f042v1fqjj7.js","async":true}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":"$@1e","v":null,"s":"$14"}}]]
+15:[["children",{"s":"shop","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"p":"$@16","v":"$17","s":"$14"},"c":"$Q18"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3i1anc1rv6vff.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/33wqh9tjrz9wj.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2dx4thwtjwbjh.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2i31li8rzn8jv.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/3p8wvp-2h9bx2.js","async":true}],["$","script","script-4",{"src":"/_next/static/chunks/0sjnzqfwiruxd.js","async":true}]],["$","html",null,{"lang":"en","className":"Zreyla_variable _19wr9q_variable bg-[#08080a] text-[#f4f4f6]","children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","type":"image/x-icon","href":"/favicon.ico"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"48x48","href":"/icon-48x48.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"96x96","href":"/icon-96x96.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"192x192","href":"/icon-192x192.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/apple-icon.png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col bg-[#08080a] text-[#f4f4f6] selection:bg-[#d4af37] selection:text-black w-full max-w-full overflow-x-hidden","children":[["$","$L8",null,{}],["$","$L9",null,{"children":[["$","$La",null,{}],["$","$Lb",null,{}],["$","$Ld",null,{}],["$","main",null,{"className":"flex-1 w-full max-w-full overflow-x-hidden","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{}]]}]]}]]}]]}],"p":"$@13","v":null,"s":"$14"},"c":"$Q15"},"h":{"r":["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shop Luxury Clothes & Designer Streetwear Online | RAVANA CLOTHING"}],["$","meta","1",{"name":"description","content":"Shop the full luxury clothing archive of RAVANA CLOTHING: Designer jackets, barrel sweatpants, silk drapes, heavyweight streetwear, and avant-garde garments. Free Pan-India shipping above ₹500."}],"$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d"]}]}],null]}],"$L3e"]}],"p":"$@3f","v":null,"s":"$14"}},"a":"$@40","u":"$@41","b":"4Cb9XB4U8co6ShSqD8ivx"}
+42:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:["$","link","2",{"rel":"author","href":"https://ravanaclothing.shop"}]
+24:["$","meta","3",{"name":"author","content":"RAVANA CLOTHING ATELIER"}]
+25:["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}]
+26:["$","meta","5",{"name":"keywords","content":"clothes,clothing,clothing brand,clothes online,cloth shop,clothing store,buy clothes online,designer clothes,luxury clothing,luxury clothes brand,streetwear clothing,high fashion clothing,men clothing,mens clothing brand,indian clothing brand,fashion apparel,oversized clothes,trending clothes,premium clothing India,Ravana Clothing,Ravana Fashion,Ravana Streetwear,Ravana Luxury Atelier,3D Fashion,Haute Couture,Golden Lanka,Silk Capes,Trending Jackets,Barrel Sweatpants"}]
+27:["$","meta","6",{"name":"creator","content":"RAVANA CLOTHING"}]
+28:["$","meta","7",{"name":"publisher","content":"RAVANA CLOTHING"}]
+29:["$","meta","8",{"name":"robots","content":"index, follow"}]
+2a:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+2b:["$","meta","10",{"name":"category","content":"clothing"}]
+2c:["$","link","11",{"rel":"canonical","href":"https://ravanaclothing.shop/shop"}]
+2d:["$","meta","12",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+2e:["$","meta","13",{"property":"og:title","content":"Shop Designer Clothes & Luxury Streetwear | RAVANA CLOTHING"}]
+2f:["$","meta","14",{"property":"og:description","content":"Explore bespoke luxury clothes, heavyweight hoodies, tactical cargo pants, and silk robes. Handcrafted for sovereignty."}]
+30:["$","meta","15",{"property":"og:url","content":"https://ravanaclothing.shop/shop"}]
+31:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+32:["$","meta","17",{"name":"twitter:title","content":"RAVANA CLOTHING | Luxury Streetwear & Designer Clothes"}]
+33:["$","meta","18",{"name":"twitter:description","content":"Cinematic 3D Luxury Fashion inspired by Golden Lanka."}]
+34:["$","meta","19",{"name":"twitter:image","content":"https://ravanaclothing.shop/brand/ravana-logo.png"}]
+35:["$","link","20",{"rel":"shortcut icon","href":"/favicon.ico"}]
+36:["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.3j4_dtul70bfa.ico","sizes":"48x48","type":"image/x-icon"}]
+37:["$","link","22",{"rel":"icon","href":"/favicon.ico","sizes":"48x48 32x32 16x16","type":"image/x-icon"}]
+38:["$","link","23",{"rel":"icon","href":"/icon-48x48.png","sizes":"48x48","type":"image/png"}]
+39:["$","link","24",{"rel":"icon","href":"/icon-96x96.png","sizes":"96x96","type":"image/png"}]
+3a:["$","link","25",{"rel":"icon","href":"/icon-192x192.png","sizes":"192x192","type":"image/png"}]
+3b:["$","link","26",{"rel":"icon","href":"/icon.png","sizes":"192x192","type":"image/png"}]
+3c:["$","link","27",{"rel":"apple-touch-icon","href":"/apple-icon.png","sizes":"180x180","type":"image/png"}]
+3d:["$","$L42","28",{}]
+3e:["$","meta",null,{"name":"next-size-adjust","content":""}]
+14:300
+41:true
+14:C
+40:0
+16:"$undefined"
+13:"$undefined"
+3f:"$undefined"
+1e:"$undefined"
