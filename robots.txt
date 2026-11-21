@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+User-Agent: Googlebot-Image
+Allow: /
+
+User-Agent: Google-Favicon
+Allow: /
+
+Host: https://ravanaclothing.shop
+Sitemap: https://ravanaclothing.shop/sitemap.xml
